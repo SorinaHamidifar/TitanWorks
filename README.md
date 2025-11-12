@@ -8,7 +8,7 @@
 # ---------- main.py ----------
 """
 Main entry point for IdeaForge.
-""""""
+"""
 
 from core import workshop, durability
 
