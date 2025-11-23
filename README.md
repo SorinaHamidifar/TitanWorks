@@ -1,7 +1,7 @@
 # ================================
 # Project: IdeaForge  
 # Description:
-# A workshop of big ideas — craft resilient software,
+# A workshop of big ideas — crafts resilient software,
 # testing new technologies, and building projects that endure.
 # ================================
 
