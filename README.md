@@ -1,5 +1,5 @@
 # ================================
-# Project: IdeaForge workshop
+# Project: IdeaForge work
 # Description:
 # A workshop of big ideas — crafting resilient software,
 # testing new technologies, and building projects that endure.
