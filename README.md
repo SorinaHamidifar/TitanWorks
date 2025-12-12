@@ -2,7 +2,7 @@
 # Project: IdeaForge 
 # Description:
 # A workshop of big ideas — crafting resilient software,
-# testing new technologes, and building projects that endure.
+# testing new technologies, and building projects that endure.
 # ================================
 
 # ---------- main.py ----------
