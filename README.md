@@ -88,6 +88,6 @@ def test_stress_test():
 
 def test_reinforce_system():
     params = {"speed": 10, "stability": 20}
-     = durability.reinforce_system(params)
+    rein = durability.reinforce_system(params)
     assert reinforced["speed"] == 11.0
     assert reinforced["stability"] == 22.0
