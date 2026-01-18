@@ -52,7 +52,7 @@ def simulate_request(url: str) -> str:
 
 # ---------- core/durability.py ----------
 """
-Module for building resilient, long-last software components.
+Module for building resilient, long-lastings software components.
 """
 
 import statistics
