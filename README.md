@@ -60,7 +60,7 @@ import statistics
 def stress_test(data):
     """
     Simulate a stress test on a system's load handling.
-    Returns a 'durability score' based on data variance.
+    Returns a ' score' based on data variance.
     """
     if not data:
         return 0
