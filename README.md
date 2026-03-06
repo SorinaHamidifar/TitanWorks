@@ -36,7 +36,7 @@ Module for experimentation and testing of new technologies.
 import random
 import time
 
-def summ(idea: str) -> str:
+def summarize_(idea: str) -> str:
     """Summarize an idea creatively."""
     return f"'{idea}' represents innovation, resilience, and forward thinking."
 
