@@ -19,7 +19,7 @@ def run():
 
     # Demo features
     idea = "Resilient Design"
-    print(f"💡 Forged Idea Summary: {works.summarize_idea(idea)}")
+    print(f"💡 Forged Idea Summary: {workshops.summarize_idea(idea)}")
     print(f"🔁 Tech Test (Simulated Network Request): {workshop.simulate_request('https://example.com')}")
     print(f"🧩 Durability Score: {durability.stress_test([1, 2, 3, 4, 5])}")
 
