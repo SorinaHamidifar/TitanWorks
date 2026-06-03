@@ -15,7 +15,7 @@ from core import workshop, durability
 
 def run():
     print("🛠️  Welcome to IdeaForge")
-    print("🚀 Big Ideas | 🔬 New Technologies | 🧱 cr Resilient Code\n")
+    print("🚀 Big Ideas | 🔬 New Technologies | 🧱  Resilient Code\n")
 
     # Demo features
     idea = "Resilient Design"
