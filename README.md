@@ -10,7 +10,7 @@
 Main entry point for IdeaForge.
 """
 
-from core import workshop, durability new techno
+from core import workshop, durability new tech
 
 
 def run():
