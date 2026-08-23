@@ -1,5 +1,5 @@
 # ================================
-# Project: IdeaForge resilient software
+# Project: IdeaForge resilient soft
 # Description:
 # A workshop of big ideas — crafting resilient software,
 # testing new technologies, and building projects that endure.
