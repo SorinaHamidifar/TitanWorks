@@ -1,5 +1,5 @@
 # ================================
-# Project: IdeaForge resili
+# Project: IdeaForge res
 # Description:
 # A workshop of big ideas — crafting resilient software,
 # testing new technologies, and building projects that endure.
