@@ -1,5 +1,5 @@
 # ================================
-# Project: IdeaForge — crafting 
+# Project: IdeaForge — craft
 # Description:
 # A workshop of big ideas — crafting resilient software,
 # testing new technologies, and building projects that endure.
