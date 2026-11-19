@@ -1,7 +1,7 @@
 # ================================
 # Project: IdeaForge
 # Description:
-# A workshop of big ideas — 
+# A workshop of big ideas — craft
 # testing new technologies, and building projects that endure.
 # ================================
 
